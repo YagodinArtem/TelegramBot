@@ -1,0 +1,314 @@
+{
+  "coord": {
+    "lon": -122.08,
+    "lat": 37.39
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 282.55,
+    "feels_like": 281.86,
+    "temp_min": 280.37,
+    "temp_max": 284.26,
+    "pressure": 1023,
+    "humidity": 100
+  },
+  "visibility": 16093,
+  "wind": {
+    "speed": 1.5,
+    "deg": 350
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1560350645,
+  "sys": {
+    "type": 1,
+    "id": 5122,
+    "message": 0.0139,
+    "country": "US",
+    "sunrise": 1560343627,
+    "sunset": 1560396563
+  },
+  "timezone": -25200,
+  "id": 420006353,
+  "name": "Mountain View",
+  "cod": 200
+  }
+
+  ///
+
+{
+"status": "ok",
+"totalResults": 34,
+-"articles": [
+-{
+-"source": {
+"id": "rbc",
+"name": "RBC"
+},
+"author": null,
+"title": "Кремль выразил надежду на «весьма оперативное» изменение цен на продукты - РБК",
+"description": "Продукты отечественного производства не могут так сильно дорожать, для этого нет объективных причин, заявил пресс-секретарь президента Дмитрий Песков. По его словам, Кремль рассчитывает на весьма ...",
+"url": "https://www.rbc.ru/society/10/12/2020/5fd1f31f9a7947b0b11e0a50",
+"urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/1/07/756075951958071.jpg",
+"publishedAt": "2020-12-10T10:13:15Z",
+"content": ""
+},
+-{
+-"source": {
+"id": null,
+"name": "Ria.ru"
+},
+"author": "",
+"title": "Мишустин раскритиковал работу чиновников из-за роста цен на продукты - РИА НОВОСТИ",
+"description": "Федеральная антимонопольная служба, Минэкономразвития, Минсельхоз, Минпромторг и вице-премьеры не проконтролировали рост цен на продукты и \"упустили ситуацию\",... РИА Новости, 10.12.2020",
+"url": "https://ria.ru/20201210/tseny-1588571120.html",
+"urlToImage": "https://cdn25.img.ria.ru/images/sharing/article/1588571120.jpg?15885855631607597059",
+"publishedAt": "2020-12-10T09:55:01Z",
+"content": "\" , . . . &lt;...&gt; . . &lt;...&gt; , , , \", ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Meduza"
+},
+"author": null,
+"title": "Hyundai решил купить производителя роботов Boston Dynamics почти за миллиард долларов - Meduza",
+"description": "Южнокорейская компания Hyundai Motor собирается купить американскую Boston Dynamics, работающую в сфере робототехники. Как сообщает The Korea Economic Daily, ссылаясь на источники, сделку на 921 миллион долларов планируют закрыть 10 декабря на заседании совет…",
+"url": "https://meduza.io/news/2020/12/10/hyundai-reshil-kupit-proizvoditelya-robotov-boston-dynamics-pochti-za-milliard-dollarov",
+"urlToImage": "https://meduza.io/imgly/share/1607593966/news/2020/12/10/hyundai-reshil-kupit-proizvoditelya-robotov-boston-dynamics-pochti-za-milliard-dollarov",
+"publishedAt": "2020-12-10T09:32:00Z",
+"content": "Hyundai Motor Boston Dynamics,   . The Korea Economic Daily,  ,  921 10    Hyundai.\r\n The Robot Report , , .   Bloomberg , Hyundai   Boston Dynamics   .\r\nHyundai Boston Dynamics   .  1992   .   2013 … [+195 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Interfax.ru"
+},
+"author": null,
+"title": "Лошадь откусила мужчине часть носа в центре Петербурга - Интерфакс",
+"description": "Петербуржец лишился части носа после попытки поцеловать лошадь, встретившуюся ему ночью в центре города, сообщил \"Интерфаксу\" в четверг информированный источник.",
+"url": "https://www.interfax.ru/russia/740714",
+"urlToImage": "https://www.interfax.ru/aspimg/740714.png",
+"publishedAt": "2020-12-10T09:20:00Z",
+"content": ". 10 . INTERFAX.RU - , , \"\" .\r\n 25- . , . , .\r\n\" : \", - , , .\r\n\" , : , - \", - ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Ria.ru"
+},
+"author": "",
+"title": "'Эпидемия' вошла в десятку лучших иностранных проектов на Netflix - РИА НОВОСТИ",
+"description": "\"Эпидемия\" стала первым проектом из России, вошедшим в топ-10 лучших иностранных сериалов на Netflix в США наряду с \"Бумажным домом\" по итогам 2020 года,... РИА Новости, 10.12.2020",
+"url": "https://ria.ru/20201210/serial-1588565102.html",
+"urlToImage": "https://cdn21.img.ria.ru/images/sharing/article/1588565102.jpg?15787797361607592281",
+"publishedAt": "2020-12-10T09:05:25Z",
+"content": "https://ria.ru/20201210/serial-1588565102.html\r\n\"\" , -10 Netflix \" \" 2020 ,... , 10.12.2020\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdn2… [+1134 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business-gazeta.ru"
+},
+"author": null,
+"title": "Назван топ-10 самых популярных сериалов 2020 года по версии IMDb - БИЗНЕС Online",
+"description": "",
+"url": "https://m.business-gazeta.ru/news/491791",
+"urlToImage": "",
+"publishedAt": "2020-12-10T08:51:00Z",
+"content": "Internet Movie Database (IMDb)   . ,   , «»,    , .\r\n « »   , IMDb   6 . - Netflix «», «»  «».\r\n ,   « », « », « », «»  «».\r\n  «Google »  2020 ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Motor.ru"
+},
+"author": "Мария Евдокимова",
+"title": "КамАЗ представил электрический кроссовер «Кама-1» - Motor.ru",
+"description": "В Москве дебютировал электрический кроссовер КамАЗа под названием «Кама-1». Премьера предсерийного образца, разработанного совместно с Санкт-Петербургским политехническим университетом Петра Великого (СПбПУ), состоялась на выставке ВУЗПРОМЭКСПО-2020.",
+"url": "https://motor.ru/news/kamaz-kama-1-10-12-2020.htm",
+"urlToImage": "https://motor.ru/thumb/908x475/filters:quality(75)/imgs/2020/12/10/08/4393038/fe31f899e47f182155f43bedab7f2652a46b8b11.jpg",
+"publishedAt": "2020-12-10T08:45:39Z",
+"content": "«»: 3,4 , 1,7 , 1,6 . 160 . «-1» ADAS 3. \r\n , , . , . 10- : ADAS ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Overclockers.ua"
+},
+"author": "Irbis",
+"title": "В OEM-драйвере HP замечена видеокарта GeForce RTX 3080 Ti - Украинский оверклокерский портал",
+"description": "Уже долгое время по Сети блуждает информация о работе Nvidia над ещё одной видеокартой с ядром GA102 &mdash; GeForce RTX 3080 Ti. Эта модель должна стать ответом &laquo;зелёных&raquo; на AMD Radeon RX 6900...",
+"url": "https://www.overclockers.ua/news/hardware/2020-12-10/128221/",
+"urlToImage": "https://www.overclockers.ua/news/video/127576-geforce-rtx-3000-specs-1.jpg",
+"publishedAt": "2020-12-10T08:27:00Z",
+"content": "Nvidia GA102 — GeForce RTX 3080 Ti. «» AMD Radeon RX 6900 XT, GeForce RTX 3080 RTX 3090. GeForce RTX 3080 Ti OEM- HP.\r\n, , , «NVIDIA_DEV.2205» GeForce RTX 3080 Ti. Nvidia, . 2021 .\r\nGeForce RTX 3080 … [+149 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Igromania.ru"
+},
+"author": null,
+"title": "Cyberpunk 2077 получила 8 млн предзаказов - Игромания",
+"description": "Пиковый онлайн в Steam превысил миллион одновременных игроков.",
+"url": "https://www.igromania.ru/news/100622/Cyberpunk_2077_poluchila_8_mln_predzakazov.html",
+"urlToImage": "https://cdn.igromania.ru/mnt/news/2/8/a/6/a/a/100622/c0e5e0260ac9f0b7_1200xH.jpg",
+"publishedAt": "2020-12-10T08:15:00Z",
+"content": ""
+},
+-{
+-"source": {
+"id": null,
+"name": "Interfax.ru"
+},
+"author": null,
+"title": "В Росси за сутки коронавирус выявили еще у 27 927 человек - Интерфакс",
+"description": "Суточный прирост новых заболевших коронавирусной инфекцией в РФ составил 27 927 случаев в 85 регионах, следует из данных оперативного штаба, обнародованных в четверг.",
+"url": "https://www.interfax.ru/russia/740684",
+"urlToImage": "https://www.interfax.ru/aspimg/740684.jpg",
+"publishedAt": "2020-12-10T08:14:00Z",
+"content": ". 10 . INTERFAX.RU - 27 927 85 , , .\r\n6 730 COVID-19 . 74 , 5 820 .\r\n 562 , 25 877 . 2 569 . 126 (+1,1%), 45 280 2 033 . 669 . 490 177 .\r\n , 3 774 COVID-19 -, 1 351 - , 499 - , 433 - , 392 - , , 381 … [+308 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Vz.ru"
+},
+"author": null,
+"title": "Спецназ НАТО готовят к тайному прорыву в Россию - ВЗГЛЯД.РУ",
+"description": "Соединенные Штаты открыли в Прибалтике новую военную структуру – базу для бойцов сил специальных операций, спецназа. Чем будет заниматься эта военная часть, какие боевые инструменты использовать и почему она потенциально крайне опасна для обороны России, особ…",
+"url": "https://vz.ru/world/2020/12/10/1074558.html",
+"urlToImage": "https://img.vz.ru/upimg/soc/soc_1074558.jpg",
+"publishedAt": "2020-12-10T08:10:00Z",
+"content": ", . , , ?\r\n Stars and stripes (« »)   . , , . , . \r\n 3,7 , , « » . « , , », , . \r\n , , . , . . \r\n , CV-22 352- « ». - , : , . , , .  , , « ».\r\n? « » ? , . CV-22 Osprey 24 . , .    565 /, 690 . 722 . … [+460 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Kommersant.ru"
+},
+"author": null,
+"title": "IMDb назвал лучшие сериалы 2020 года - Коммерсантъ",
+"description": "Подробнее на сайте",
+"url": "https://www.kommersant.ru/doc/4605736",
+"urlToImage": "https://im.kommersant.ru/SocialPics/4605736_26_0_9397786",
+"publishedAt": "2020-12-10T07:36:00Z",
+"content": "Internet Movie Database (IMDb) , 2020 . . \r\n «» Amazon Prime. , . « » Netflix IMDb. - Netflix «». \r\n-10 : \r\n<ol><li>«»,</li><li>« »,</li><li>«»,</li><li>«», </li><li>«», </li><li>« », </li><li>« », <… [+127 chars]"
+},
+-{
+-"source": {
+"id": "rbc",
+"name": "RBC"
+},
+"author": null,
+"title": "ЦБ ограничил операции Киви Банка после проверки - РБК",
+"description": "Ограничения коснулись в том числе платежей в пользу иностранных торговых компаний. Кредитную организацию также оштрафовали на 11 млн руб. QIWI считает, что меры регулятора связаны с усилением контроля в области киберпространства",
+"url": "https://www.rbc.ru/finances/10/12/2020/5fd1c2a39a79479a4074495b",
+"urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/7/70/756075856015707.jpg",
+"publishedAt": "2020-12-10T07:33:00Z",
+"content": "QIWI , . ,   2020 ,   33  40% . 2021 , .\r\n« , , , », — QIWI. , , , , .\r\n , . QIWI , « » .\r\n 1992 , .  — 297,9 ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Sportmail.ru"
+},
+"author": "Спорт Mail.ru",
+"title": "Умер чемпион мира по футболу 1982 года в составе сборной Италии Паоло Росси - Спорт Mail.ru",
+"description": "Бывший футболист сборной Италии по футболу Паоло Росси скончался в возрасте 64 лет. Об этом на своей странице в Instagram сообщила его жена Федерика Каппеллетти.",
+"url": "https://sportmail.ru/news/football-foreign/44495483/",
+"urlToImage": "https://news.mail.ru/social_preview/44495483/sport/?time=4b3b7c3f83e0d1d11ed2062a97c2e043",
+"publishedAt": "2020-12-10T07:20:26Z",
+"content": "1982     .        ,    .      « » ,     World Soccer    .\r\n  «», «», «», «»  «», 340 ,   134 .   «» 1985 , (1984), (1984)   (1981/82, 1983/84)   (1983).       .\r\n  48   20 .               .    XX   W… [+182 chars]"
+},
+{
+"source": {
+"id": "rbc",
+"name": "RBC"
+},
+"author": null,
+"title": "Новый глава назначил финансовую проверку Мосгорсуда - РБК",
+"description": "Новый глава Мосгорсуда Михаил Птицын, сменивший на этом посту Ольгу Егорову, начал проверку финансово-хозяйственной документации учреждения. Источники РБК говорят и о готовящейся ротации председателей районных судов",
+"url": "https://www.rbc.ru/society/10/12/2020/5fd0c8809a794756b513f3ef",
+"urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/756075764261333.jpg",
+"publishedAt": "2020-12-10T06:34:00Z",
+"content": ", , «». , , , , , , .  — (, «», ) ; .\r\n , . , ,  — .\r\n , «», , . « , », .   - , , .\r\n - .\r\n , 65 , 1999 2020 , . .\r\n 2019 - « » « ». , « ».\r\n , 1999 ; , , «» , .\r\n ; , , , , ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Novayagazeta.ru"
+},
+"author": null,
+"title": "Власти Беларуси закрывают границы на выезд из страны - Новая газета",
+"description": null,
+"url": "https://novayagazeta.ru/news/2020/12/10/166321-vlasti-belarusi-zakryvayut-granitsy-na-vyezd-iz-strany",
+"urlToImage": null,
+"publishedAt": "2020-12-10T06:22:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "lenta",
+"name": "Lenta"
+},
+"author": null,
+"title": "Описаны последствия мощного землетрясения в российском городе - Lenta.ru",
+"description": "В результате землетрясения в Иркутске пострадали около 20 школ и социальных учреждений, сообщил заместитель мэра города, председатель комитета по социальной политике и культуре Виталий Барышников. По его словам, в школах зафиксированы небольшие трещины, в них…",
+"url": "https://lenta.ru/news/2020/12/10/posledstvia/",
+"urlToImage": "https://icdn.lenta.ru/images/2020/12/10/08/20201210085650235/share_046fae9d32d460250f66555e4ecd7067.jpg",
+"publishedAt": "2020-12-10T06:04:00Z",
+"content": "20 . , , , 10 .\r\n , , . « . », .\r\n , - , . .\r\n , , .\r\n , 7,6, 5,5. ."
+},
+-{
+-"source": {
+"id": null,
+"name": "Championat.com"
+},
+"author": "Чемпионат",
+"title": "Лига чемпионов: кто вышел в плей-офф, когда жеребьёвка, кто с кем играет - Чемпионат.com",
+"description": "Стали известны все участники плей-офф Лиги чемпионов. Жеребьёвка 1/8 финала Лиги чемпионов состоится в Ньоне в понедельник, 14 декабря.",
+"url": "https://www.championat.com/bets/news-4212523-liga-chempionov-kto-vyshel-v-plej-off-kogda-zherebjovka-kto-s-kem-igraet.html",
+"urlToImage": "https://img.championat.com/news2/social/6/c1/4212523.jpg",
+"publishedAt": "2020-12-10T05:02:09Z",
+"content": "- . 1/8 , 14 .\r\n: «» (), «» (), «» (), «» (), « » (), «» (), «» (), «» (), «» (), «» (), «» (), «» (), «» (), «» (), « -» (), « » (). \r\n, «», «» «». «» «» . «» - ."
+},
+{
+"source": {
+"id": null,
+"name": "Mail.ru"
+},
+"author": "Здоровье Mail.ru",
+"title": "Ковид депрессивный: как заболевание влияет на ментальное здоровье - Здоровье Mail.ru",
+"description": "Все больше исследований выявляют связь между коронавирусом и депрессией.",
+"url": "https://health.mail.ru/news/kovid_depressivnyy_kak_zabolevanie_vliyaet_na/",
+"urlToImage": "https://health.mail.ru/sharepic/33/598524/?1607529164",
+"publishedAt": "2020-12-10T05:00:00Z",
+"content": ", COVID-19 , . , , Mail.ru BestDoctor .\r\n, .\r\nCOVID-19 . , , .\r\n , . , . : - , , - , .\r\n . , , JAMA Network Open, , , .\r\n , 25% .\r\nCOVID-19 , , . , 5 . 50% , . , COVID-19 , .\r\n . , 24 30 , 41% .\r\n 31… [+361 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Трамп поставил на Техас. Верховный суд США решит исход выборов - Би-би-си Русская служба",
+"description": "Республиканцы в 17 штатах США поддержали судебный иск, поданный в Верховный суд с требованием отменить результаты голосования в четырех штатах страны. Дональд Трамп продолжает настаивать на пересмотре итогов выборов, и заявляет, что Верховный суд поддержит ег…",
+"url": "https://www.bbc.com/russian/news-55254803",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/1321/production/_115979840_3a060cb0-e040-451d-afad-87c4bb2c4e83.jpg",
+"publishedAt": "2020-12-10T04:51:16Z",
+"content": "17 , . , .\r\n 17 , , , , . . , , .\r\n 18 25 - . \r\n, , , , , 3 , .\r\n, , , , , , , , , , , , , .\r\n , , - , 14 .\r\n , 3 . \r\n , .\r\n\" -, , - NPR . - . , \".\r\n , , , , . . .\r\n , , . , , 52 . 51 , ."
+}
+]
+}
+
