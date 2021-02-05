@@ -37,8 +37,8 @@ public class Bot extends TelegramLongPollingBot {
         if (message != null && message.hasText()) {
             switch (message.getText()) {
                 case "/help" -> sendMsg(message, """
-                        1. Для того чтобы узнать погоду, просто напишите в чат название населенного пункта
-                        2. Если желаете узнать свежие новости, нажмите на кнопку /News""");
+                         1. Для того чтобы узнать погоду, просто напишите в чат название населенного пункта
+                         2. Если желаете узнать свежие новости, нажмите на кнопку /News""");
                 case "/settings" -> sendMsg(message, "Что необходимо настроить?");
                 //bitcoin news method
                 case "/News" -> sendNews(message, News.getNews());
