@@ -1,1 +1,1 @@
-worker: sh out/artifacts/TelegramBot_jar/TelegramBot.jar
+worker: sh out/artifacts/TelegramBot_jar/TelegramBot
