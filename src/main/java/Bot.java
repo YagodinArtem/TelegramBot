@@ -1,3 +1,4 @@
+import org.json.JSONObject;
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;
 import org.telegram.telegrambots.api.methods.send.SendMessage;
@@ -35,16 +36,25 @@ public class Bot extends TelegramLongPollingBot {
         Model model = new Model();
 
         if (message != null && message.hasText()) {
-            switch (message.getText()) {
-                case "/help" -> sendMsg(message, """
-                         1. Для того чтобы узнать погоду, просто напишите в чат название населенного пункта
-                         2. Если желаете узнать свежие новости, нажмите на кнопку /News""");
-                case "/settings" -> sendMsg(message, "Что необходимо настроить?");
-                //bitcoin news method
-                case "/News" -> sendNews(message, News.getNews());
+            //System.out.println(message);
+            JSONObject object = new JSONObject(message);
+            String regret = object.getString("text");
+            //System.out.println(regret);
 
-
-                default -> {
+            switch (regret) {
+                case "/help":
+                    sendMsg(message,
+                            "1. Для того чтобы узнать погоду, просто напишите в чат название населенного пункта " +
+                            "\n2. Если желаете узнать свежие новости, нажмите на кнопку /News");
+                    break;
+                case "/settings":
+                    sendMsg(message, "Что необходимо настроить?");
+                    break;
+                //news method
+                case "/News":
+                    sendNews(message, News.getNews());
+                    break;
+                default : {
                     try {
                         sendMsg(message, Weather.getWeather(message.getText(), model));
                     } catch (IOException e) {
