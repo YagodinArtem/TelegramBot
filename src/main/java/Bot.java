@@ -1,3 +1,5 @@
+package main.java;
+
 import org.json.JSONObject;
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;

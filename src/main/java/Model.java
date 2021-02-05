@@ -1,3 +1,5 @@
+package main.java;
+
 public class Model {
 
     private String name;
