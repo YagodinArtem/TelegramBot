@@ -130,6 +130,5 @@ public class Bot extends TelegramLongPollingBot {
             //TelegramBotException
             e.printStackTrace();
         }
-
     }
 }
