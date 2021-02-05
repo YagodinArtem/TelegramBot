@@ -32,7 +32,7 @@
                 <configuration>
                     <source>15</source>
                     <target>15</target>
-                    <executable>C:\Users\User\.jdks\openjdk-15.0.2\bin\javac</executable>
+                    <executable>F:\JDK\bin\javac</executable>
                 </configuration>
             </plugin>
         </plugins>
