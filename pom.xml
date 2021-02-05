@@ -24,6 +24,7 @@
     </dependencies>
 
     <build>
+        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
@@ -38,6 +39,7 @@
                         </program>
                     </programs>
                 </configuration>
+
                 <executions>
                     <execution>
                         <phase>package</phase>
