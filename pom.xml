@@ -33,7 +33,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>com.src.main.java.bot.class</mainClass>
+                            <mainClass>main.java.Bot</mainClass>
                             <name>Bot</name>
                         </program>
                     </programs>
