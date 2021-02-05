@@ -1,1 +1,1 @@
-worker: sh src/main/java/Bot
+worker: sh out/artifacts/TelegramBot_jar/TelegramBot.jar
