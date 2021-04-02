@@ -19,7 +19,7 @@ import java.util.List;
 public class Bot extends TelegramLongPollingBot {
 
     //уникальный номер бота только для владельца
-    //1361557806:AAFqfYC5pOKnHoh8mZtiz0xTHiSuXaiox1E
+   
     @Override
     public String getBotToken() {
         return "???";
