@@ -13,8 +13,8 @@ import java.util.Scanner;
 public class News {
 
     /*
-     * http://newsapi.org/v2/top-headlines?country=ru&apiKey=
-     * 86627f6339294c5fa2086580a09f90d1
+     * http://newsapi.org/v2/top-headlines?country=ru&apiKey=???
+     * 
      *
      * token ^ news
      *
@@ -31,7 +31,7 @@ public class News {
     public static List<String> getNews() {
         List<String> news = new ArrayList<>();
         try {
-            URL url = new URL("http://newsapi.org/v2/top-headlines?country=ru&apiKey=86627f6339294c5fa2086580a09f90d1");
+            URL url = new URL("http://newsapi.org/v2/top-headlines?country=ru&apiKey=???");
             Scanner sc = new Scanner((InputStream) url.getContent());
             String result = "";
             while (sc.hasNext()) {
